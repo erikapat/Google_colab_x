@@ -1,2 +1,2 @@
-# Google_colab_x
-Iteractions with google colab
+# Google_colab
+Interactions with google colab
